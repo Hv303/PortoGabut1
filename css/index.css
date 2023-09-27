@@ -31,7 +31,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url(/image/bacground\ 2.jpg);
+    background-image: url(../image/bacground\ 2.jpg);
     /* supaya bisa sesuai kan layar / px */
 
     background-size: cover;
@@ -58,9 +58,9 @@ body {
 
 .content-2{
     min-height: 100vh;
-    display: flex;
-    align-items: center;
- background-image: url(/image/gif\ 1.gif);
+     display: flex;
+     align-items: center; 
+ background-image: url(../image/gif\ 1.gif);
 
  background-size: cover;
     background-position: center;
